@@ -105,7 +105,7 @@ The data can then be used further with different visualization tools:
 + [XYZ Studio](https://xyz.here.com/studio) by HERE is another tool for creating custom maps from data sets.
 
 Example visualization in XYZ Studio
-![XYZ Studio Visualization](XYZ Visuzalization.png)
+![XYZ Studio Visualization](https://share.icloud.com/photos/0WYXGTsUkFbKWkl4sU6Xr1f3A#Haar)
 
 The actual interactive map can be found here: https://xyz.here.com/viewer/?project_id=6be065fd-d4e5-4abc-bcce-59baaa76db61
 
